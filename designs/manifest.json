@@ -1,0 +1,192 @@
+[
+  {
+    "file": "01-Approved-Screens/01-Welcome.png",
+    "bytes": 1407327,
+    "sha256": "45d560ad000fa2e42857db57aa951f795c4bb3b02d6c147d7aa18ee7085579a6"
+  },
+  {
+    "file": "01-Approved-Screens/02-Choose-Your-Genres.png",
+    "bytes": 1538445,
+    "sha256": "58854474590bc4ebc8fc34e565277935e3ba10bfd64f80ab8ee4b1d48273ac64"
+  },
+  {
+    "file": "01-Approved-Screens/03-Age-and-Content-Preferences.png",
+    "bytes": 1582501,
+    "sha256": "34aef03e5dcc31daf55d3d0bb212c211892992c9b0672672b51c1b371e4cb66c"
+  },
+  {
+    "file": "01-Approved-Screens/04-Create-Your-Account.png",
+    "bytes": 1486858,
+    "sha256": "6590a9f2df189645b64c8e1e4344954583c60792ce28eb4df138e7993f8001b2"
+  },
+  {
+    "file": "01-Approved-Screens/05-Email-Sign-Up.png",
+    "bytes": 1444830,
+    "sha256": "f6406f083ee15d9ef9d02c48d9ed439c589717ae59121f1657d1f540b581d75b"
+  },
+  {
+    "file": "01-Approved-Screens/06-Log-In.png",
+    "bytes": 1649014,
+    "sha256": "cac8973682bc9716c95d2adda0c7c311b4163d387c6271a8afbad9b43043b8f6"
+  },
+  {
+    "file": "01-Approved-Screens/07-Forgot-Password.png",
+    "bytes": 1772911,
+    "sha256": "8fcf979732a06ea0d2ce1ba7646049a9ef171b4479fd78779ae2a33dd41edf07"
+  },
+  {
+    "file": "01-Approved-Screens/08-Discover-Home.png",
+    "bytes": 1884531,
+    "sha256": "57bc5b9d620722447d62468808d17ebc0c45330c3e7f712f972ccc10cfce882b"
+  },
+  {
+    "file": "01-Approved-Screens/09-Search.png",
+    "bytes": 1792690,
+    "sha256": "e6034aaa589ac30c76a13d23c6ae940f86387296e864227de77fd2256e535123"
+  },
+  {
+    "file": "01-Approved-Screens/10-Search-Results.png",
+    "bytes": 1844221,
+    "sha256": "47f7d3525e979af3de5bf059f90706d605ed333fc8984567ceaad9fcd33075cf"
+  },
+  {
+    "file": "01-Approved-Screens/11-Fantasy-Collection.png",
+    "bytes": 2297820,
+    "sha256": "d27c5e03c0d0b0179fda3f4c38a69c210093539842457a799d2839f44c88a95f"
+  },
+  {
+    "file": "01-Approved-Screens/12-Author-Profile.png",
+    "bytes": 2157480,
+    "sha256": "849073e50b8701fc4a0c5bf140953b89228c887e80fdd1b66aff7e72f13acc87"
+  },
+  {
+    "file": "01-Approved-Screens/13-Completed-Book-Details.png",
+    "bytes": 1856155,
+    "sha256": "756c19cc16fb0c9f54a0b2fbcaf6b955c754315479af1c111809a12d35e8b78d"
+  },
+  {
+    "file": "01-Approved-Screens/14-Ongoing-Series-Details.png",
+    "bytes": 1824481,
+    "sha256": "765777ef915cc482d20799ddf785a2863035cb54832596f9ba3809cea27a3be7"
+  },
+  {
+    "file": "01-Approved-Screens/15-Checkout.png",
+    "bytes": 1632384,
+    "sha256": "e19f4a24c58634d5aac2df1d10056c715cd9911a2a578c047d5b41e558a0bc5c"
+  },
+  {
+    "file": "01-Approved-Screens/16-Purchase-Confirmation.png",
+    "bytes": 1927471,
+    "sha256": "c7cb72d6f71c16885e0e9825b27296441a0793091ef4cfb1cd931853ee20d788"
+  },
+  {
+    "file": "01-Approved-Screens/17-My-Library.png",
+    "bytes": 1872997,
+    "sha256": "73661675176ded124815a9e85fb8361d01b9968c28ee6ed616f468c6d13f0646"
+  },
+  {
+    "file": "01-Approved-Screens/18-Saved-Stories.png",
+    "bytes": 1998330,
+    "sha256": "072a17c3151cef66453a8e278df5cc99cab52caa86867395b92ac4a070a92ffe"
+  },
+  {
+    "file": "01-Approved-Screens/19-Offline-Downloads.png",
+    "bytes": 1946964,
+    "sha256": "fa16ff3beeb34b2075be7a2124e6fee5206eb107ac1629642bbe6687456d204e"
+  },
+  {
+    "file": "01-Approved-Screens/20-Reader.png",
+    "bytes": 1703256,
+    "sha256": "4645f8c4c09118c3aae8c9c785c307e9c8a345c92e4fe6a389b6b7bea1393cb4"
+  },
+  {
+    "file": "01-Approved-Screens/21-Chapter-List.png",
+    "bytes": 1610194,
+    "sha256": "8c890a36540a527d749a0b3789ba6c24267fdda25ea8541771dd91fd55a4da99"
+  },
+  {
+    "file": "01-Approved-Screens/22-Reading-Settings.png",
+    "bytes": 1631603,
+    "sha256": "90441c8be5fe1848e63e071561185211cd039da89ff5a41f4aa38128cbb92a0a"
+  },
+  {
+    "file": "01-Approved-Screens/23-Share-Quote-or-Page.png",
+    "bytes": 1784744,
+    "sha256": "d7cabe2fd4982481a3536f93f9152e449dd42b206a8bece60e357bfd0b14e1c6"
+  },
+  {
+    "file": "01-Approved-Screens/24-Updates.png",
+    "bytes": 1881965,
+    "sha256": "816daa19f0a37f88c5f748b3eceaf01a7738dd1353507b73e87643028dd0d309"
+  },
+  {
+    "file": "01-Approved-Screens/25-Reader-Profile.png",
+    "bytes": 1865969,
+    "sha256": "b8996ddf4790196085ff189c96d71e01e054ee9545cb2e42c88aa39bbd2255e7"
+  },
+  {
+    "file": "01-Approved-Screens/26-Purchase-History.png",
+    "bytes": 1992351,
+    "sha256": "67b6a453d18abf9f525a04ab5718ff1fa5a9fad768a162938cd214f6d8513c99"
+  },
+  {
+    "file": "01-Approved-Screens/27-Notification-Preferences.png",
+    "bytes": 1752940,
+    "sha256": "19e7d9e2b6effd069f045ad8d375d9d0851d24b30f141a8b9b304ab5eca05076"
+  },
+  {
+    "file": "01-Approved-Screens/28-Account-Settings.png",
+    "bytes": 1770042,
+    "sha256": "a7c423fbf70261543759c02c2c65047bb26d23a027057d3ce2bef9c143497224"
+  },
+  {
+    "file": "01-Approved-Screens/29-Help-and-Support.png",
+    "bytes": 1820669,
+    "sha256": "9c8811f9f0662463ec395d39223a3e42f68bbb2914b465d27bc97f504410e146"
+  },
+  {
+    "file": "01-Approved-Screens/30-Contact-Support.png",
+    "bytes": 1702916,
+    "sha256": "a7369e7a80962bbbd5645459dba810db0a40404d0b9a70ebbb728c668c791266"
+  },
+  {
+    "file": "01-Approved-Screens/31-Support-Request-Confirmation.png",
+    "bytes": 1882887,
+    "sha256": "743dd11d507d7fb5ef0c021325c70e6c78bf5003a36e45039b4d8ec5d8877514"
+  },
+  {
+    "file": "01-Approved-Screens/32-Payment-Failed.png",
+    "bytes": 1939261,
+    "sha256": "fd60825b62016bdc67cd0210861175eac4f922607eeaa548f778814a4fad7ea3"
+  },
+  {
+    "file": "01-Approved-Screens/33-Empty-Library.png",
+    "bytes": 1838724,
+    "sha256": "616cc70ffd619783ec5e9de48fb11ec85c998027f749ebd9f6d4a38c44bb7f8a"
+  },
+  {
+    "file": "01-Approved-Screens/34-Verify-Your-Email.png",
+    "bytes": 1733556,
+    "sha256": "ade0cda1388abe8a94909025ce2c92737af4d3dec315d07312a5eca3a576d48b"
+  },
+  {
+    "file": "01-Approved-Screens/35-Password-Reset-Complete.png",
+    "bytes": 1857219,
+    "sha256": "425b45d7338cc7c8f28fdedfe8e90d77fb0eac8ce5dc0e96a8b0fbe51a96b1b6"
+  },
+  {
+    "file": "02-Earlier-Concepts/Original-Six-Screen-Concept-Board.png",
+    "bytes": 2058470,
+    "sha256": "649a28344bd6f0ad9026eff69f560cd29fc53e3491c1783b1d7d81adc49a5117"
+  },
+  {
+    "file": "02-Earlier-Concepts/Welcome-Concept-with-Design-Notes.png",
+    "bytes": 1769019,
+    "sha256": "e96f1750541b4cfa155c6bb8e5937589ec8678cda16569f8a2c2b7b5f3b6b9fa"
+  },
+  {
+    "file": "02-Earlier-Concepts/Alternative-Dark-Welcome.png",
+    "bytes": 2101048,
+    "sha256": "ed4cb5b6b0f45321226b64304571aa60222bb0d609babf4b2f9485b3b58dda7f"
+  }
+]
